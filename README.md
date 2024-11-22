@@ -8,4 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaoShuyou&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+![Visitor Count](https://profile-counter.glitch.me/YaoShuyou/count.svg)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaoShuyou&show_icons=true&theme=transparent)
