@@ -1,6 +1,6 @@
 ## Hi there 👋,I'm YaoShuyou!
 
-<img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 - :disappointed: I’m a novice coder, who can only write shit code...
 - 🔭 I’m currently studying in school;
@@ -10,4 +10,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaoShuyou&show_icons=true&theme=transparent)
 
-![Visitor Count](https://profile-counter.glitch.me/YaoShuyou/count.svg)
+
