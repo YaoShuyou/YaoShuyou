@@ -1,6 +1,6 @@
 ## Hi there 👋,I'm YaoShuyou!
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="300">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
 
 - :disappointed: I’m a novice coder, who can only write shit code...
 - 🔭 I’m currently studying in school;
